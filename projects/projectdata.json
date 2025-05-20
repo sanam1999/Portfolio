@@ -1,0 +1,72 @@
+[
+  {
+    "name": "StayNest — Airbnb Clone",
+    "imageSrc": "./assets/images/projects/php/listing.png",
+    "discrption": "StayNest is a full-stack booking platform built with the MERN stack (MongoDB, Express.js, React, Node.js). Inspired by Airbnb, it allows users to list, search, and book properties worldwide. Features include user authentication, dynamic property listings, booking management, reviews, and secure payment integration.",
+    "viewLink": "#",
+    "image": ["./assets/images/projects/php/listing.png", "./assets/images/projects/php/listing1.png","./assets/images/projects/php/listing2.png"],
+    "codeLink": "https://github.com/sanam1999/first_project.git"
+  },
+  {
+    "name": "CyberHub — Club Management Platform",
+    "imageSrc": "./assets/images/projects/php/c2sh1.png",
+    "discrption": "CyberHub is a web-based application designed for managing a Cybersecurity Club, built with the MEAN stack (MongoDB, Express.js, Angular, Node.js). It offers features like event scheduling, member registration, knowledge-sharing forums, announcements, and resource libraries, helping students and enthusiasts connect and collaborate securely.",
+    "viewLink": "#",
+    "image": ["./assets/images/projects/php/c2sh1.png", "./assets/images/projects/php/c2sh2.png", "./assets/images/projects/php/c2sh3.png","./assets/images/projects/php/c2sh4.png","./assets/images/projects/php/c2sh5.png","./assets/images/projects/php/c2sh6.png"],
+    "codeLink": "https://github.com/sanam1999/c2shFinal.git"
+  },
+  {
+    "name": "E-Commerce Platform",
+    "imageSrc": "./assets/images/projects/php/1.png",
+    "discrption": "ShopEase is a dynamic e-commerce web application built with PHP and MySQL. It allows users to browse products, manage shopping carts, place orders, and track purchases. The admin panel offers inventory management, order processing, and customer management tools for efficient online store operations.",
+    "viewLink": "#",
+    "image": [
+      "./assets/images/projects/php/1.png",
+      "./assets/images/projects/php/2.png",
+      "./assets/images/projects/php/3.png",
+      "./assets/images/projects/php/4.png",
+      "./assets/images/projects/php/5.png",
+      "./assets/images/projects/php/6.png",
+      "./assets/images/projects/php/7.png",
+      "./assets/images/projects/php/8.png",
+      "./assets/images/projects/php/9.png",
+      "./assets/images/projects/php/10.png"
+    ],
+    "codeLink": "https://github.com/sanam1999/secondPHPProject.git"
+  },
+  {
+    "name": "Flash Food — Food Donation Mobile App",
+    "imageSrc": "./assets/images/projects/php/m1.png",
+    "discrption": "Flash Food is a mobile food donation app built with React Native, connecting restaurants, grocery stores, and individuals with surplus food to nearby charities and people in need. The app features real-time donation listings, location-based search, pickup scheduling, and donor-recipient messaging for seamless coordination.",
+    "viewLink": "#",
+    "image": [
+      "./assets/images/projects/php/m1.png",
+      "./assets/images/projects/php/m2.png",
+      "./assets/images/projects/php/m3.png",
+       "./assets/images/projects/php/m4.png",
+      "./assets/images/projects/php/m5.png",
+      "./assets/images/projects/php/m6.png",
+       "./assets/images/projects/php/m7.png",
+      "./assets/images/projects/php/m8.png",
+      "./assets/images/projects/php/m9.png",
+       "./assets/images/projects/php/m10.png",
+      "./assets/images/projects/php/m11.png"
+    ],
+    "codeLink": "https://github.com/sanam1999/mad"
+  },
+  {
+    "name": "Clod Storage — Image Hosting Platform",
+    "discrption": "Clod Storage is a MEAN stack-based image hosting platform inspired by Cloudinary. It enables users to upload, store, and manage images with secure API access using unique API keys and secrets. Features include image retrieval links, deletion via links, usage limits for free accounts, and scalable paid plans for professional users.",
+    "imageSrc": "./assets/images/projects/php/c1.png",
+    "viewLink": "#",
+    "image": [
+      "./assets/images/projects/php/c1.png",
+      "./assets/images/projects/php/c2.png",
+      "./assets/images/projects/php/c3.png",
+      "./assets/images/projects/php/c4.png",
+      "./assets/images/projects/php/c5.png"
+     
+    ],
+    "codeLink": "https://github.com/sanam1999/cloudstorageall.git"
+  }
+]
